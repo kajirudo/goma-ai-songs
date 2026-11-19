@@ -73,7 +73,34 @@
       "song_seconds": 60,
       "scene": "Golden-hour morning walk; gentle acoustic folk pop with harmonica, BPM 96, C major",
       "note": "10% experimental slot"
+    },
+    {
+      "id": "monday-rise",
+      "title": "Monday Rise",
+      "song": "songs/monday-rise.mp3",
+      "intro": "intros/monday-rise.mp3",
+      "song_seconds": 60,
+      "scene": "Monday morning; mid-tempo J-pop rock, BPM 110, D major",
+      "note": "70% taste slot (Mr.Children DNA)"
+    },
+    {
+      "id": "tuesday-lights",
+      "title": "Tuesday Lights",
+      "song": "songs/tuesday-lights.mp3",
+      "intro": "intros/tuesday-lights.mp3",
+      "song_seconds": 60,
+      "scene": "Tuesday morning; dance pop, BPM 122, A major",
+      "note": "20% adjacent slot (dance pop)"
+    },
+    {
+      "id": "wednesday-breeze",
+      "title": "Wednesday Breeze",
+      "song": "songs/wednesday-breeze.mp3",
+      "intro": "intros/wednesday-breeze.mp3",
+      "song_seconds": 60,
+      "scene": "Wednesday morning; gentle bossa nova, 4/4, BPM 100, C major",
+      "note": "10% experimental slot (bossa nova)"
     }
   ],
-  "updated": "2026-11-15"
+  "updated": "2026-11-19"
 }
