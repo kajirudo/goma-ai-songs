@@ -100,7 +100,34 @@
       "song_seconds": 60,
       "scene": "Wednesday morning; gentle bossa nova, 4/4, BPM 100, C major",
       "note": "10% experimental slot (bossa nova)"
+    },
+    {
+      "id": "thursday-morning",
+      "title": "Thursday Morning",
+      "song": "songs/thursday-morning.mp3",
+      "intro": "intros/thursday-morning.mp3",
+      "song_seconds": 60,
+      "scene": "Thursday morning; mid-tempo J-pop rock ballad, quiet verse opening into a big chorus, BPM 108, D major",
+      "note": "70% taste slot (Mr.Children DNA)"
+    },
+    {
+      "id": "friday-morning",
+      "title": "Friday Morning",
+      "song": "songs/friday-morning.mp3",
+      "intro": "intros/friday-morning.mp3",
+      "song_seconds": 60,
+      "scene": "Friday morning; bright driving pop rock, BPM 126, G major",
+      "note": "20% adjacent slot (L'Arc-en-Ciel / Hikaru Utada DNA)"
+    },
+    {
+      "id": "saturday-groove",
+      "title": "Saturday Groove",
+      "song": "songs/saturday-groove.mp3",
+      "intro": "intros/saturday-groove.mp3",
+      "song_seconds": 60,
+      "scene": "Saturday morning; gentle reggae groove, 4/4, BPM 92, A major",
+      "note": "10% experimental slot (reggae)"
     }
   ],
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
 }
