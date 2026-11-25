@@ -1,5 +1,5 @@
 {
-  "description": "AI-generated original songs supplied by Goma DJ for a personal morning radio program. Each set pairs a DJ intro (Puck voice) with one original song (ACE-Step 1.5, English lyrics).",
+  "description": "AI-generated original songs supplied by Goma DJ. Vocal songs (ACE-Step 1.5, English lyrics) come as a set of a DJ intro (Puck voice) plus the song; instrumental tracks (lo-fi / chiptune BGM) are song-only. Each entry carries a shelf tag (用途別の棚) so other projects can reuse tracks by purpose.",
   "name": "goma-ai-songs",
   "sets": [
     {
@@ -163,7 +163,62 @@
       "song": "songs/wednesday-rain.mp3",
       "song_seconds": 180,
       "title": "Wednesday Rain"
+    },
+    {
+      "id": "thursday-shine",
+      "intro": "intros/thursday-shine.mp3",
+      "note": "70% taste slot (Mr.Children DNA)",
+      "scene": "Thursday morning; mid-tempo J-pop rock ballad, quiet verse opening into a big hopeful chorus, BPM 108, D major",
+      "shelf": "朝・目覚め",
+      "song": "songs/thursday-shine.mp3",
+      "song_seconds": 180,
+      "title": "Thursday Shine",
+      "vocal": true
+    },
+    {
+      "id": "friday-gold",
+      "intro": "intros/friday-gold.mp3",
+      "note": "20% adjacent slot (driving pop rock)",
+      "scene": "Friday morning; upbeat driving pop rock with groovy bass and bright guitars, BPM 126, G major",
+      "shelf": "ドライブ・移動",
+      "song": "songs/friday-gold.mp3",
+      "song_seconds": 180,
+      "title": "Friday Gold",
+      "vocal": true
+    },
+    {
+      "id": "saturday-swing",
+      "intro": "intros/saturday-swing.mp3",
+      "note": "10% experimental slot (jazz swing)",
+      "scene": "Saturday morning; light jazz swing with walking bass and brass, BPM 120, F major",
+      "shelf": "夜・ゆったり",
+      "song": "songs/saturday-swing.mp3",
+      "song_seconds": 180,
+      "title": "Saturday Swing",
+      "vocal": true
+    },
+    {
+      "id": "focus-flow",
+      "intro": null,
+      "note": "20% adjacent slot (lo-fi instrumental BGM)",
+      "scene": "Instrumental, no vocals; lo-fi chill beat with soft electric piano and vinyl crackle, BPM 82, C major - background music for work/study videos and streams",
+      "shelf": "作業・集中",
+      "song": "songs/focus-flow.mp3",
+      "song_seconds": 180,
+      "title": "Focus Flow",
+      "vocal": false
+    },
+    {
+      "id": "pixel-quest",
+      "intro": null,
+      "note": "10% experimental slot (chiptune instrumental)",
+      "scene": "Instrumental, no vocals; chiptune 8-bit synth melody, loop-friendly RPG field theme, BPM 140, A minor - for game projects and streams",
+      "shelf": "ゲーム・配信",
+      "song": "songs/pixel-quest.mp3",
+      "song_seconds": 180,
+      "title": "Pixel Quest",
+      "vocal": false
     }
   ],
-  "updated": "2026-11-22"
+  "updated": "2026-11-25"
 }
