@@ -338,6 +338,39 @@
       "song_seconds": 180,
       "title": "Flower and Song",
       "vocal": true
+    },
+    {
+      "id": "monday-horizon",
+      "intro": "intros/monday-horizon.mp3",
+      "note": "70% taste slot (Mr.Children DNA)",
+      "scene": "Monday morning; mid-tempo J-pop rock ballad, quiet verse opening into a big hopeful chorus, BPM 108, D major",
+      "shelf": "朝・目覚め",
+      "song": "songs/monday-horizon.mp3",
+      "song_seconds": 180,
+      "title": "Monday Horizon",
+      "vocal": true
+    },
+    {
+      "id": "tuesday-bloom",
+      "intro": "intros/tuesday-bloom.mp3",
+      "note": "20% adjacent slot (dance pop)",
+      "scene": "Tuesday morning; upbeat dance pop with groovy bass and sparkling synths, BPM 122, A major",
+      "shelf": "朝・目覚め",
+      "song": "songs/tuesday-bloom.mp3",
+      "song_seconds": 180,
+      "title": "Tuesday Bloom",
+      "vocal": true
+    },
+    {
+      "id": "wednesday-snowfall",
+      "intro": "intros/wednesday-snowfall.mp3",
+      "note": "10% experimental slot (winter ballad)",
+      "scene": "Wednesday morning; gentle winter ballad with soft piano and strings, BPM 92, C major",
+      "shelf": "季節・イベント",
+      "song": "songs/wednesday-snowfall.mp3",
+      "song_seconds": 180,
+      "title": "Wednesday Snowfall",
+      "vocal": true
     }
   ],
   "updated": "2026-11-25"
